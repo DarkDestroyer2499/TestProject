@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/child.dir/main.cpp.o CMakeFiles/child.dir/FileSaver.cpp.o  -o child 

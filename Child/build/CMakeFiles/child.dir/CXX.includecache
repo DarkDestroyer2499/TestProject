@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkreaper/Project/main/Child/FileSaver.cpp
+FileSaver.h
+/home/darkreaper/Project/main/Child/FileSaver.h
+
+/home/darkreaper/Project/main/Child/FileSaver.h
+IFileSaver.h
+/home/darkreaper/Project/main/Child/IFileSaver.h
+fstream
+-
+
+/home/darkreaper/Project/main/Child/IFileSaver.h
+
+/home/darkreaper/Project/main/Child/main.cpp
+iostream
+-
+sys/wait.h
+-
+unistd.h
+-
+fstream
+-
+FileSaver.h
+/home/darkreaper/Project/main/Child/FileSaver.h
+memory
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkreaper/Project/main/Parent/main.cpp
+iostream
+-
+sys/wait.h
+-
+unistd.h
+-
+fstream
+-
+
